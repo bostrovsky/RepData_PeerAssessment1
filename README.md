@@ -8,3 +8,4 @@ specialization program.  The repo contains the data used, the Rmd, .html and .md
 and a folder containing the figures.
 
 The original dataset was downloaded December 4th from: https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip
+The unzipped dataset is included as activity.csv.
